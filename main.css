@@ -1472,6 +1472,9 @@
 .d-grid {
   display: grid !important;
 }
+.j-c-space-between {
+  justify-content: space-between;
+}
 .button-small {
   font-style: normal;
   font-weight: 500;
